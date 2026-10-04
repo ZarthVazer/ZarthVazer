@@ -4,6 +4,8 @@
 
 ### DevOps Engineer · CI/CD · Kubernetes · Infrastructure as Code
 
+[![Telegram](https://img.shields.io/badge/Telegram-@ZeroTrace01-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/ZeroTrace01)
+
 </div>
 
 ---
@@ -55,6 +57,7 @@ I build CI/CD pipelines, containerize applications, run them on Kubernetes and d
 
 <div align="center">
 
+[![Telegram](https://img.shields.io/badge/Telegram-@ZeroTrace01-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ZeroTrace01)
 [![GitHub](https://img.shields.io/badge/GitHub-ZarthVazer-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZarthVazer)
 
 </div>
