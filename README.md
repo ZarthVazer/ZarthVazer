@@ -57,12 +57,6 @@ DevOps engineer focused on making software delivery **fast, repeatable and safe*
 | 🔒 | **Secure by default** — non-root containers, scanned images, no secrets in code |
 | 📊 | **You can't fix what you can't see** — every service ships with health checks, metrics and logs |
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZarthVazer&theme=github-compact&hide_border=true&area=true" alt="Activity graph" width="100%" />
-</p>
-
 ---
 
 <div align="center">
