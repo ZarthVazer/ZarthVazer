@@ -42,12 +42,12 @@ DevOps engineer focused on making software delivery **fast, repeatable and safe*
 | | Project | What it shows |
 |:-:|---|---|
 | 🔄 | [**cicd-pipeline-demo**](https://github.com/ZarthVazer/cicd-pipeline-demo) | End-to-end pipeline: lint → tests → hardened Docker image → Trivy scan → GHCR → Kubernetes (Kustomize, dev/prod) |
-| ☁️ | [**aws-terraform-infra**](https://github.com/ZarthVazer/aws-terraform-infra) | Modular AWS infrastructure in Terraform: secure remote state (S3 + KMS + native locking), multi-AZ VPC module, dev environment; CI with validate, tflint and Trivy |
+| ☁️ | [**aws-terraform-infra**](https://github.com/ZarthVazer/aws-terraform-infra) | Modular AWS infrastructure in Terraform: secure remote state, multi-AZ VPC and EKS modules, dev/prod environments; CI with tflint, Trivy, PR plans via GitHub OIDC and Infracost cost estimates |
 | 🤖 | [**devops-daily-digest**](https://github.com/ZarthVazer/devops-daily-digest) | Scheduled GitHub Actions job tracking new DevOps tool releases and critical security advisories, with a daily report |
 | 📒 | [**devops-notes**](https://github.com/ZarthVazer/devops-notes) | Practical notes on real problems: pod debugging, Terraform state, Docker images, Linux, CI failures |
 | ☕ | [**hibernate-task**](https://github.com/ZarthVazer/hibernate-task) | Earlier backend work: Java persistence with Hibernate |
 
-**🚧 In progress:** EKS module and prod environment for aws-terraform-infra · GitOps platform with Argo CD · Observability stack with Prometheus, Grafana and Loki
+**🚧 In progress:** GitOps platform with Argo CD · Observability stack with Prometheus, Grafana and Loki
 
 ## ⚡ How I work
 
